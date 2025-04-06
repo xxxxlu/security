@@ -4,7 +4,7 @@
       <b-navbar toggleable="lg" type="dark" variant="primary">
         <b-container>
           <b-navbar-brand to="/">
-            <strong>Security Experts</strong>
+             <img src="./assets/chipnest.png" alt="chipnest" style="height: 40px;">
           </b-navbar-brand>
 
           <b-navbar-toggle target="nav-collapse" />
