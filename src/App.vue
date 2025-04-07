@@ -58,7 +58,7 @@
         </b-row>
         <hr class="bg-white mt-4">
         <div class="text-center">
-          <p>&copy; Copyright © 2025 | Powered by Data Network Solutions.</p>
+          <p>&copy; Copyright © 2025 | Powered by Data Network Solutions (SMC-Private) Limited</p>
         </div>
       </b-container>
     </footer>
