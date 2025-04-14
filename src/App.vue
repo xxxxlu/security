@@ -52,8 +52,7 @@
           </b-col>
           <b-col md="4">
             <h5>Contact Us</h5>
-            <p><b-icon icon="envelope" />chipnest@zontec.club</p>
-            <p><b-icon icon="geo-alt" /> Badshahi Complex 6, Lahore, Pakistan</p>
+            <p><b-icon icon="envelope" />chipnest@chipnest.shop</p>
           </b-col>
         </b-row>
         <hr class="bg-white mt-4">
