@@ -58,7 +58,7 @@
         </b-row>
         <hr class="bg-white mt-4">
         <div class="text-center">
-          <p>&copy; Copyright © 2025 | Powered by Data Network Solutions (SMC-Private) Limited</p>
+          <p>&copy; Copyright © 2025 Chipnest Store. Powered by DATA TECH SOLUTIONS SMC PRIVATE LIMITED</p>
         </div>
       </b-container>
     </footer>
